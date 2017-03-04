@@ -1,0 +1,28 @@
+C:\Users\Mateusz\SkyDrive\pl\New folder\OWN\OWN\bin\Debug\OWN.exe.config
+C:\Users\Mateusz\SkyDrive\pl\New folder\OWN\OWN\bin\Debug\OWN.exe
+C:\Users\Mateusz\SkyDrive\pl\New folder\OWN\OWN\bin\Debug\OWN.pdb
+C:\Users\Mateusz\SkyDrive\pl\New folder\OWN\OWN\obj\Debug\OWN.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\SkyDrive\pl\New folder\OWN\OWN\obj\Debug\MainWindow.g.cs
+C:\Users\Mateusz\SkyDrive\pl\New folder\OWN\OWN\obj\Debug\App.g.cs
+C:\Users\Mateusz\SkyDrive\pl\New folder\OWN\OWN\obj\Debug\OWN_MarkupCompile.cache
+C:\Users\Mateusz\SkyDrive\pl\New folder\OWN\OWN\obj\Debug\OWN_MarkupCompile.lref
+C:\Users\Mateusz\SkyDrive\pl\New folder\OWN\OWN\obj\Debug\MainWindow.baml
+C:\Users\Mateusz\SkyDrive\pl\New folder\OWN\OWN\obj\Debug\OWN.g.resources
+C:\Users\Mateusz\SkyDrive\pl\New folder\OWN\OWN\obj\Debug\OWN.Properties.Resources.resources
+C:\Users\Mateusz\SkyDrive\pl\New folder\OWN\OWN\obj\Debug\OWN.csproj.GenerateResource.Cache
+C:\Users\Mateusz\SkyDrive\pl\New folder\OWN\OWN\obj\Debug\OWN.exe
+C:\Users\Mateusz\SkyDrive\pl\New folder\OWN\OWN\obj\Debug\OWN.pdb
+C:\Users\Lenovo-Pc\Downloads\chess-master\chess-master\OWN\bin\Debug\OWN.exe.config
+C:\Users\Lenovo-Pc\Downloads\chess-master\chess-master\OWN\obj\Debug\OWN.exe
+C:\Users\Lenovo-Pc\Downloads\chess-master\chess-master\OWN\obj\Debug\OWN.pdb
+C:\Users\Lenovo-Pc\Downloads\chess-master\chess-master\OWN\bin\Debug\OWN.exe
+C:\Users\Lenovo-Pc\Downloads\chess-master\chess-master\OWN\bin\Debug\OWN.pdb
+C:\Users\Lenovo-Pc\Downloads\chess-master\chess-master\OWN\obj\Debug\OWN.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo-Pc\Downloads\chess-master\chess-master\OWN\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo-Pc\Downloads\chess-master\chess-master\OWN\obj\Debug\App.g.cs
+C:\Users\Lenovo-Pc\Downloads\chess-master\chess-master\OWN\obj\Debug\OWN_MarkupCompile.cache
+C:\Users\Lenovo-Pc\Downloads\chess-master\chess-master\OWN\obj\Debug\OWN_MarkupCompile.lref
+C:\Users\Lenovo-Pc\Downloads\chess-master\chess-master\OWN\obj\Debug\MainWindow.baml
+C:\Users\Lenovo-Pc\Downloads\chess-master\chess-master\OWN\obj\Debug\OWN.g.resources
+C:\Users\Lenovo-Pc\Downloads\chess-master\chess-master\OWN\obj\Debug\OWN.Properties.Resources.resources
+C:\Users\Lenovo-Pc\Downloads\chess-master\chess-master\OWN\obj\Debug\OWN.csproj.GenerateResource.Cache
