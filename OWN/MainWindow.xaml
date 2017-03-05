@@ -71,5 +71,6 @@
         <Button x:Name="button61" Content="H3" HorizontalAlignment="Left" Background="White" Margin="280,200,0,0" VerticalAlignment="Top" Width="40" Height="40" RenderTransformOrigin="0,0" Click="button_Click"/>
         <Button x:Name="button62" Content="H2" HorizontalAlignment="Left" Margin="280,240,0,0" VerticalAlignment="Top" Width="40" Height="40" RenderTransformOrigin="0,0" Click="button_Click" Background="Black" Foreground="White"/>
         <Button x:Name="button63" Content="H1" HorizontalAlignment="Left" Background="White" Margin="280,280,0,0" VerticalAlignment="Top" Width="40" Height="40" RenderTransformOrigin="0,0" Click="button_Click"/>
+        <Button x:Name="pionek" Content="Button" HorizontalAlignment="Left" Margin="290,290,0,0" VerticalAlignment="Top" Width="20" Height="20"/>
     </Grid>
 </Window>

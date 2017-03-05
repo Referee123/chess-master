@@ -20,52 +20,36 @@ namespace OWN
     /// </summary>
     public partial class MainWindow : Window
     {
+        public List<Pawn> pawns { get; set; }
         private int buffer = 0;
         private System.Windows.Media.Brush ColorBuffer;
-        private Button ButtonBuffer;
-        private string ContentBuffer;
-        Chess chess = new Chess();
+        Button FirstMove;
+        Button SecondMove;
+        Chess chess;
+
+
         public MainWindow()
         {
             InitializeComponent();
+            pawns = new List<Pawn>();
+            InitalizeChess();
 
+        }
 
+        private void InitalizeChess()
+        {
+            chess = new Chess(this);
         }
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            int x = 0;
-            int y = 0;
-            Button field = new Button();
-            field = (Button)sender;
-            if (buffer < 1)
+            if(FirstMove != null)
             {
-                OtherFunctions.ParseXY(field, ref x, ref y);                
-                if ((x + y) % 2 != 0)
-                {
-                    return;
-                }
-                ColorBuffer = field.Background;
-                ButtonBuffer = field;
-                ContentBuffer = (string)field.Content;
-                buffer++;
+                FirstMove = sender as Button;
             }
             else
             {
-                OtherFunctions.ParseXY(field, ref x, ref y);
-                if ((x + y) % 2 != 0)
-                {
-                    buffer = 0;
-                    return;
-                }
-                int oldX = 0;
-                int oldY = 0;
-                OtherFunctions.ParseXY(ButtonBuffer, ref oldX, ref oldY);
-                chess.add(x, y, chess.show(oldX, oldY));
-                chess.remove(oldX, oldY);
-                ButtonBuffer.Background = Brushes.LightGray;
-                buffer = 0;
-                field.Background = ColorBuffer;
+                SecondMove = sender as Button;
             }
         }
         private void double_Click(Button button)
